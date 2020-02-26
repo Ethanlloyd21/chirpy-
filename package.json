@@ -1,0 +1,24 @@
+{
+  "name": "chirpy-",
+  "version": "1.0.0",
+  "description": "Simple library app built with express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node index",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethanlloyd21/chirpy-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ethanlloyd21/chirpy-/issues"
+  },
+  "homepage": "https://github.com/Ethanlloyd21/chirpy-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
